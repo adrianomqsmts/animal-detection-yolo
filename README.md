@@ -4,6 +4,12 @@ Projeto orientado à computação da 🏫 Universidade Federal de Viçosa - Camp
 
 A expansão imobiliária provoca a ocupação de regiões próximas às áreas rurais, onde é comum a presença de animais próximos à presença do homem. Estes animais podem perturbar a ordem, causando transtornos, danos ou prejuízos, e até mesmo colocando em risco a segurança das pessoas. Neste projeto, foi desenvolvido um modelo de visão computacional com o objetivo de identificar a presença destes animais em imagens de vídeos de segurança, seja para simples controle de presença, monitoramento e até mesmo alarme de perigo. O modelo foi desenvolvido usando o conjunto de imagens obtidas do Open Images Dataset e treinado através do framework Darknet, obtendo resultados validados pela métrica mAP (mean Average Precision)  com  precisão media geral de 84.58% em prever e detectar os objetos das seguintes classes: Cavalo, Pessoa, Gado, Porco, Gato, Cachorro, Onça e Cobra.
 
+
+Exemplo da detecção e reconhecimento. 
+
+![](readme/gado.png)
+
+
 ## 💻 Resultados 
 
 
